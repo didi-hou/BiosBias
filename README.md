@@ -1,4 +1,4 @@
-# Biosbias
+# BiosBias
 ## Please read this before running the notebook
 1. The jupyter notebook contains all code of our project, it is well structured and documented;
 2. Make sure the packages listed in the beginning of the notebook have been properly installed on the machine;
